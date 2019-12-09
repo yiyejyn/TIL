@@ -50,7 +50,7 @@
 - '![alt속성]()' 사이에 이미지 주소를 입력합니다.
 - 파일 > 환경설정 > 이미지 > '가능하다면 상대적 위치 사용' 선택, filename.assets경로로 이미지 복사
 
-![mydearcat](마크다운 사용법.assets/mydearcat.jpeg)
+![mydearcat](usage.assets/mydearcat.jpeg)
 
 
 
